@@ -1,0 +1,297 @@
+Faaliyet Formu.xlsx
+2025-08-14 09:01:43,539 - INFO - veri_yapilandirma_GUNCEL.xlsx başarıyla yüklendi
+2025-08-14 09:01:43,548 - INFO - Toplam 21 form alanı oluşturuldu
+2025-08-14 09:01:47,918 - INFO - Ankara tablosu yüklendi
+2025-08-14 09:01:47,925 - INFO - NACE açıklaması bulundu: 81.21.01
+2025-08-14 09:01:49,680 - INFO - SGK 1181823 için veriler yüklendi
+2025-08-14 09:02:03,179 - INFO - === KAYDETME İŞLEMİ BAŞLADI ===
+2025-08-14 09:02:03,185 - INFO - Toplam 21 alan güncellendi
+2025-08-14 09:02:03,185 - INFO - === OTOMATİK HESAPLAMALAR ===
+2025-08-14 09:02:03,188 - INFO - RD Yöntemi kaydedildi: Matris
+2025-08-14 09:02:03,188 - INFO - Faaliyet tarihi placeholder'ı normal işlemler için temizlendi
+2025-08-14 09:02:03,226 - INFO - veri.xlsx kaydedildi
+2025-08-14 09:02:03,231 - INFO - veri_yapilandirma_GUNCEL.xlsx güncellendi
+2025-08-14 09:02:06,660 - INFO - veri.xlsx başarıyla yüklendi
+2025-08-14 09:02:06,661 - INFO - Toplam 33 anahtar yüklendi
+2025-08-14 09:02:06,662 - INFO - Klasörler oluşturuldu: /Users/huseyinilhan/Desktop/ANKARA LOJİSTİK YATIRIMLARI VE AK.TEMİZLİ, yedekler/2025-08-14 - ANKARA LOJİSTİK YATIRIMLARI VE AK.TEMİZLİ
+2025-08-14 09:02:06,671 - INFO - YILLIKLAR klasörü kontrol ediliyor: Evraklar/YILLIKLAR
+2025-08-14 09:02:06,671 - INFO - Klasör var mı: True
+2025-08-14 09:02:06,671 - INFO - YILLIKLAR klasöründeki dosyalar: ['YILLIK ÇALIŞMA PLANI KURULLU.xlsx', 'YILLIK ÇALIŞMA PLANI KURULSUZ.xlsx', 'YILLIK DEĞERLENDİRME RAPORU.xlsx', 'YILLIK EĞİTİM PLANI KURULSUZ.xlsx', 'YILLIK EĞİTİM PLANI KURULLU.xlsx']
+2025-08-14 09:02:06,671 - INFO - YILLIKLAR dosya kontrolü: YILLIK ÇALIŞMA PLANI KURULLU.xlsx
+2025-08-14 09:02:06,671 - INFO - Yıllık Çalışma Planı bulundu!
+2025-08-14 09:02:06,671 - INFO - YILLIKLAR dosya kontrolü: YILLIK ÇALIŞMA PLANI KURULSUZ.xlsx
+2025-08-14 09:02:06,671 - INFO - Yıllık Çalışma Planı bulundu!
+2025-08-14 09:02:06,671 - INFO - YILLIKLAR dosya kontrolü: YILLIK DEĞERLENDİRME RAPORU.xlsx
+2025-08-14 09:02:06,671 - INFO - Yıllık Değerlendirme Raporu bulundu!
+2025-08-14 09:02:06,671 - INFO - YILLIKLAR dosya kontrolü: YILLIK EĞİTİM PLANI KURULSUZ.xlsx
+2025-08-14 09:02:06,671 - INFO - Yıllık Eğitim Planı bulundu!
+2025-08-14 09:02:06,671 - INFO - YILLIKLAR dosya kontrolü: YILLIK EĞİTİM PLANI KURULLU.xlsx
+2025-08-14 09:02:06,672 - INFO - Yıllık Eğitim Planı bulundu!
+2025-08-14 09:02:06,672 - INFO - Yıllık planlar bulundu: ['Yıllık Çalışma Planı', 'Yıllık Çalışma Planı', 'Yıllık Değerlendirme Raporu', 'Yıllık Eğitim Planı', 'Yıllık Eğitim Planı']
+2025-08-14 09:02:06,672 - INFO - 16 belge bulundu (Filtresiz)
+2025-08-14 09:02:11,298 - INFO - 
+=== İşlem başlıyor: Yıllık Çalışma Planı ===
+2025-08-14 09:02:11,299 - INFO - === Yıllık plan belgesi işleniyor: Yıllık Çalışma Planı ===
+2025-08-14 09:02:11,299 - INFO - Yıl kontrolü: YIL=2025 vs TARİH yılı=2025 -> True
+2025-08-14 09:02:11,299 - INFO - Dinamik algoritma kullanılacak mı: True
+2025-08-14 09:02:11,299 - INFO - Çalışan sayısı: 8, Kurullu: False
+2025-08-14 09:02:11,299 - INFO - Template seçimi için dosya: Yıllık Çalışma Planı
+2025-08-14 09:02:11,299 - INFO - Çalışma planı template'i seçiliyor
+2025-08-14 09:02:11,299 - INFO - Template seçimi: Evraklar/YILLIKLAR/YILLIK ÇALIŞMA PLANI KURULSUZ.xlsx, Var mı: True
+2025-08-14 09:02:11,299 - INFO - Seçilen template: Evraklar/YILLIKLAR/YILLIK ÇALIŞMA PLANI KURULSUZ.xlsx
+2025-08-14 09:02:11,299 - INFO - Plan türü belirlendi: Çalışma Planı (dosya: Yıllık Çalışma Planı)
+2025-08-14 09:02:11,300 - INFO - Template kopyalandı: Evraklar/YILLIKLAR/YILLIK ÇALIŞMA PLANI KURULSUZ.xlsx -> /Users/huseyinilhan/Desktop/ANKARA LOJİSTİK YATIRIMLARI VE AK.TEMİZLİ/ANKARA LOJİSTİK YATIRIMLARI VE AK.TEMİZLİ - Yıllık Çalışma Planı KURULSUZ.xlsx
+2025-08-14 09:02:11,300 - INFO - Excel işleme başladı: ANKARA LOJİSTİK YATIRIMLARI VE AK.TEMİZLİ - Yıllık Çalışma Planı KURULSUZ.xlsx
+2025-08-14 09:02:11,445 - INFO - Excel dosya adı kontrol ediliyor: 'ANKARA LOJİSTİK YATIRIMLARI VE AK.TEMİZLİ - Yıllık Çalışma Planı KURULSUZ.xlsx'
+2025-08-14 09:02:11,445 - INFO - [DEBUG] Excel kontrolleri: Yıllık=True, Değerlendirme=False, Raporu=False
+2025-08-14 09:02:11,445 - INFO - [DEBUG] Normalized filename: 'ANKARA LOJİSTİK YATIRIMLARI VE AK.TEMİZLİ - YILLIK ÇALIŞMA PLANI KURULSUZ.XLSX'
+2025-08-14 09:02:11,445 - INFO - Normal Excel dosyası - RD güncelleme yok
+2025-08-14 09:02:11,467 - INFO - Excel kaydedildi. 4 değişiklik yapıldı.
+2025-08-14 09:02:11,467 - INFO - Placeholder'lar dolduruldu: /Users/huseyinilhan/Desktop/ANKARA LOJİSTİK YATIRIMLARI VE AK.TEMİZLİ/ANKARA LOJİSTİK YATIRIMLARI VE AK.TEMİZLİ - Yıllık Çalışma Planı KURULSUZ.xlsx
+2025-08-14 09:02:11,467 - INFO - Dinamik algoritma uygulanıyor...
+2025-08-14 09:02:11,467 - INFO - Dinamik algoritma başlıyor - Plan türü: Çalışma Planı, Başlık satırı: 6
+2025-08-14 09:02:11,468 - INFO - Dinamik tarih ayı: 8
+2025-08-14 09:02:11,599 - INFO - Ay başlıkları 6. satırda bulundu!
+2025-08-14 09:02:11,599 - INFO - Güncellenen başlık satırı: 6
+2025-08-14 09:02:11,599 - INFO - Ay bulundu: OCAK, Index: 1, Kolon: 4
+2025-08-14 09:02:11,599 - INFO - Satır 9, Sütun 4: 'X' temizlendi
+2025-08-14 09:02:11,599 - INFO - Satır 18, Sütun 4: 'X' temizlendi
+2025-08-14 09:02:11,599 - INFO - Satır 19, Sütun 4: 'X' temizlendi
+2025-08-14 09:02:11,599 - INFO - Satır 20, Sütun 4: 'X' temizlendi
+2025-08-14 09:02:11,599 - INFO - Satır 27, Sütun 4: 'X' temizlendi
+2025-08-14 09:02:11,600 - INFO - Satır 60, Sütun 4: 'X' temizlendi
+2025-08-14 09:02:11,600 - INFO - Sütun 4'da 6 hücre temizlendi
+2025-08-14 09:02:11,600 - INFO - Geçmiş ay temizlendi: OCAK
+2025-08-14 09:02:11,600 - INFO - Ay bulundu: ŞUBAT, Index: 2, Kolon: 8
+2025-08-14 09:02:11,600 - INFO - Satır 31, Sütun 8: 'X' temizlendi
+2025-08-14 09:02:11,600 - INFO - Satır 32, Sütun 8: 'X' temizlendi
+2025-08-14 09:02:11,600 - INFO - Sütun 8'da 2 hücre temizlendi
+2025-08-14 09:02:11,600 - INFO - Geçmiş ay temizlendi: ŞUBAT
+2025-08-14 09:02:11,600 - INFO - Ay bulundu: MART, Index: 3, Kolon: 12
+2025-08-14 09:02:11,600 - INFO - Satır 9, Sütun 12: 'X' temizlendi
+2025-08-14 09:02:11,600 - INFO - Sütun 12'da 1 hücre temizlendi
+2025-08-14 09:02:11,600 - INFO - Geçmiş ay temizlendi: MART
+2025-08-14 09:02:11,600 - INFO - Ay bulundu: MAYIS, Index: 5, Kolon: 20
+2025-08-14 09:02:11,600 - INFO - Satır 9, Sütun 20: 'X' temizlendi
+2025-08-14 09:02:11,600 - INFO - Satır 18, Sütun 20: 'X' temizlendi
+2025-08-14 09:02:11,600 - INFO - Satır 19, Sütun 20: 'X' temizlendi
+2025-08-14 09:02:11,600 - INFO - Satır 20, Sütun 20: 'X' temizlendi
+2025-08-14 09:02:11,600 - INFO - Sütun 20'da 4 hücre temizlendi
+2025-08-14 09:02:11,600 - INFO - Geçmiş ay temizlendi: MAYIS
+2025-08-14 09:02:11,601 - INFO - Ay bulundu: TEMMUZ, Index: 7, Kolon: 28
+2025-08-14 09:02:11,601 - INFO - Satır 31, Sütun 28: 'X' temizlendi
+2025-08-14 09:02:11,601 - INFO - Satır 32, Sütun 28: 'X' temizlendi
+2025-08-14 09:02:11,601 - INFO - Sütun 28'da 2 hücre temizlendi
+2025-08-14 09:02:11,601 - INFO - Geçmiş ay temizlendi: TEMMUZ
+2025-08-14 09:02:11,601 - INFO - Ay bulundu: AĞUSTOS, Index: 8, Kolon: 32
+2025-08-14 09:02:11,601 - INFO - Ay bulundu: EYLÜL, Index: 9, Kolon: 36
+2025-08-14 09:02:11,601 - INFO - Ay bulundu: KASIM, Index: 11, Kolon: 44
+2025-08-14 09:02:11,601 - INFO - Ay bulundu: ARALIK, Index: 12, Kolon: 48
+2025-08-14 09:02:11,601 - INFO - Toplam 5 ay temizlendi
+2025-08-14 09:02:11,622 - INFO - Dinamik algoritma tamamlandı.
+2025-08-14 09:02:11,622 - INFO - Yıllık silme kuralları uygulanıyor...
+2025-08-14 09:02:11,622 - INFO - Yıllık silme kuralı hesaplandı: ay=8, plan_tipi=yillik_calisma_plani_kurulsuz
+2025-08-14 09:02:11,623 - INFO - Silinecek hücreler listesi (62): ['AB31', 'AB32', 'AC14', 'AC18', 'AC19', 'AC20', 'AC31', 'AC32', 'AD39', 'X18', 'X19', 'X20', 'X22', 'X24', 'X26', 'X31', 'Y39', 'Y52', 'AA27', 'T9', 'T18', 'T19', 'T20', 'U39', 'V31', 'P18', 'P19', 'P20', 'P26', 'Q14', 'R21', 'R22', 'R23', 'R32', 'L9', 'M32', 'H31', 'H32', 'I14', 'I39', 'K18', 'K19', 'K20', 'K22', 'K23', 'K24', 'K32', 'D9', 'D18', 'D19', 'D20', 'D27', 'D60', 'E14', 'E21', 'E22', 'E23', 'E24', 'F26', 'F31', 'F39', 'F52']
+2025-08-14 09:02:11,758 - INFO - Hücre silindi: AC14
+2025-08-14 09:02:11,758 - INFO - Hücre silindi: AC18
+2025-08-14 09:02:11,758 - INFO - Hücre silindi: AC19
+2025-08-14 09:02:11,758 - INFO - Hücre silindi: AC20
+2025-08-14 09:02:11,758 - INFO - Hücre silindi: AC31
+2025-08-14 09:02:11,758 - INFO - Hücre silindi: AC32
+2025-08-14 09:02:11,758 - INFO - Hücre silindi: AD39
+2025-08-14 09:02:11,758 - INFO - Hücre silindi: X18
+2025-08-14 09:02:11,759 - INFO - Hücre silindi: X19
+2025-08-14 09:02:11,759 - INFO - Hücre silindi: X20
+2025-08-14 09:02:11,759 - INFO - Hücre silindi: X22
+2025-08-14 09:02:11,759 - INFO - Hücre silindi: X24
+2025-08-14 09:02:11,759 - INFO - Hücre silindi: X26
+2025-08-14 09:02:11,759 - INFO - Hücre silindi: X31
+2025-08-14 09:02:11,759 - INFO - Hücre silindi: Y39
+2025-08-14 09:02:11,759 - INFO - Hücre silindi: Y52
+2025-08-14 09:02:11,759 - INFO - Hücre silindi: AA27
+2025-08-14 09:02:11,759 - INFO - Hücre silindi: U39
+2025-08-14 09:02:11,759 - INFO - Hücre silindi: V31
+2025-08-14 09:02:11,759 - INFO - Hücre silindi: P18
+2025-08-14 09:02:11,759 - INFO - Hücre silindi: P19
+2025-08-14 09:02:11,759 - INFO - Hücre silindi: P20
+2025-08-14 09:02:11,759 - INFO - Hücre silindi: P26
+2025-08-14 09:02:11,759 - INFO - Hücre silindi: Q14
+2025-08-14 09:02:11,760 - INFO - Hücre silindi: R21
+2025-08-14 09:02:11,760 - INFO - Hücre silindi: R22
+2025-08-14 09:02:11,760 - INFO - Hücre silindi: R23
+2025-08-14 09:02:11,760 - INFO - Hücre silindi: R32
+2025-08-14 09:02:11,760 - INFO - Hücre silindi: M32
+2025-08-14 09:02:11,760 - INFO - Hücre silindi: I14
+2025-08-14 09:02:11,760 - INFO - Hücre silindi: I39
+2025-08-14 09:02:11,760 - INFO - Hücre silindi: K18
+2025-08-14 09:02:11,760 - INFO - Hücre silindi: K19
+2025-08-14 09:02:11,760 - INFO - Hücre silindi: K20
+2025-08-14 09:02:11,760 - INFO - Hücre silindi: K22
+2025-08-14 09:02:11,760 - INFO - Hücre silindi: K23
+2025-08-14 09:02:11,760 - INFO - Hücre silindi: K24
+2025-08-14 09:02:11,760 - INFO - Hücre silindi: K32
+2025-08-14 09:02:11,760 - INFO - Hücre silindi: E14
+2025-08-14 09:02:11,760 - INFO - Hücre silindi: E21
+2025-08-14 09:02:11,760 - INFO - Hücre silindi: E22
+2025-08-14 09:02:11,760 - INFO - Hücre silindi: E23
+2025-08-14 09:02:11,760 - INFO - Hücre silindi: E24
+2025-08-14 09:02:11,760 - INFO - Hücre silindi: F26
+2025-08-14 09:02:11,761 - INFO - Hücre silindi: F31
+2025-08-14 09:02:11,761 - INFO - Hücre silindi: F39
+2025-08-14 09:02:11,761 - INFO - Hücre silindi: F52
+2025-08-14 09:02:11,783 - INFO - Toplam 47 hücre silindi (YILLIK_SILME_KURALLARI)
+2025-08-14 09:02:11,783 - INFO - Yıllık silme kuralları tamamlandı.
+2025-08-14 09:02:11,783 - INFO - Yıllık plan belgesi başarıyla oluşturuldu: ANKARA LOJİSTİK YATIRIMLARI VE AK.TEMİZLİ - Yıllık Çalışma Planı KURULSUZ.xlsx
+2025-08-14 09:03:24,583 - INFO - veri_yapilandirma_GUNCEL.xlsx başarıyla yüklendi
+2025-08-14 09:03:24,640 - INFO - Toplam 21 form alanı oluşturuldu
+2025-08-14 09:03:37,889 - INFO - Ankara tablosu yüklendi
+2025-08-14 09:03:38,100 - INFO - NACE açıklaması bulundu: 81.21.01
+2025-08-14 09:03:40,757 - INFO - SGK 1181823 için veriler yüklendi
+2025-08-14 09:04:43,326 - INFO - veri_yapilandirma_GUNCEL.xlsx başarıyla yüklendi
+2025-08-14 09:04:43,333 - INFO - Toplam 21 form alanı oluşturuldu
+2025-08-14 09:04:47,613 - INFO - Ankara tablosu yüklendi
+2025-08-14 09:04:47,619 - INFO - NACE açıklaması bulundu: 82.20.01
+2025-08-14 09:04:49,095 - INFO - SGK 1203356 için veriler yüklendi
+2025-08-14 09:05:06,497 - INFO - === KAYDETME İŞLEMİ BAŞLADI ===
+2025-08-14 09:05:06,500 - INFO - Toplam 21 alan güncellendi
+2025-08-14 09:05:06,500 - INFO - === OTOMATİK HESAPLAMALAR ===
+2025-08-14 09:05:06,502 - INFO - RD Yöntemi kaydedildi: Matris
+2025-08-14 09:05:06,502 - INFO - Faaliyet tarihi placeholder'ı normal işlemler için temizlendi
+2025-08-14 09:05:06,507 - INFO - veri.xlsx kaydedildi
+2025-08-14 09:05:06,510 - INFO - veri_yapilandirma_GUNCEL.xlsx güncellendi
+2025-08-14 09:05:08,754 - INFO - veri.xlsx başarıyla yüklendi
+2025-08-14 09:05:08,755 - INFO - Toplam 33 anahtar yüklendi
+2025-08-14 09:05:08,756 - INFO - Klasörler oluşturuldu: /Users/huseyinilhan/Desktop/ENERJİSA PERAKENDE ÇAĞRI MERKEZİ HİZMETİ, yedekler/2025-08-14 - ENERJİSA PERAKENDE ÇAĞRI MERKEZİ HİZMETİ
+2025-08-14 09:05:08,765 - INFO - YILLIKLAR klasörü kontrol ediliyor: Evraklar/YILLIKLAR
+2025-08-14 09:05:08,765 - INFO - Klasör var mı: True
+2025-08-14 09:05:08,765 - INFO - YILLIKLAR klasöründeki dosyalar: ['YILLIK ÇALIŞMA PLANI KURULLU.xlsx', 'YILLIK ÇALIŞMA PLANI KURULSUZ.xlsx', 'YILLIK DEĞERLENDİRME RAPORU.xlsx', 'YILLIK EĞİTİM PLANI KURULSUZ.xlsx', 'YILLIK EĞİTİM PLANI KURULLU.xlsx']
+2025-08-14 09:05:08,765 - INFO - YILLIKLAR dosya kontrolü: YILLIK ÇALIŞMA PLANI KURULLU.xlsx
+2025-08-14 09:05:08,765 - INFO - Yıllık Çalışma Planı bulundu!
+2025-08-14 09:05:08,765 - INFO - YILLIKLAR dosya kontrolü: YILLIK ÇALIŞMA PLANI KURULSUZ.xlsx
+2025-08-14 09:05:08,765 - INFO - Yıllık Çalışma Planı bulundu!
+2025-08-14 09:05:08,765 - INFO - YILLIKLAR dosya kontrolü: YILLIK DEĞERLENDİRME RAPORU.xlsx
+2025-08-14 09:05:08,765 - INFO - Yıllık Değerlendirme Raporu bulundu!
+2025-08-14 09:05:08,765 - INFO - YILLIKLAR dosya kontrolü: YILLIK EĞİTİM PLANI KURULSUZ.xlsx
+2025-08-14 09:05:08,765 - INFO - Yıllık Eğitim Planı bulundu!
+2025-08-14 09:05:08,765 - INFO - YILLIKLAR dosya kontrolü: YILLIK EĞİTİM PLANI KURULLU.xlsx
+2025-08-14 09:05:08,765 - INFO - Yıllık Eğitim Planı bulundu!
+2025-08-14 09:05:08,765 - INFO - Yıllık planlar bulundu: ['Yıllık Çalışma Planı', 'Yıllık Çalışma Planı', 'Yıllık Değerlendirme Raporu', 'Yıllık Eğitim Planı', 'Yıllık Eğitim Planı']
+2025-08-14 09:05:08,765 - INFO - 16 belge bulundu (Filtresiz)
+2025-08-14 09:05:11,763 - INFO - 
+=== İşlem başlıyor: Yıllık Çalışma Planı ===
+2025-08-14 09:05:11,763 - INFO - === Yıllık plan belgesi işleniyor: Yıllık Çalışma Planı ===
+2025-08-14 09:05:11,763 - INFO - Yıl kontrolü: YIL=2025 vs TARİH yılı=2025 -> True
+2025-08-14 09:05:11,763 - INFO - Dinamik algoritma kullanılacak mı: True
+2025-08-14 09:05:11,764 - INFO - Çalışan sayısı: 463, Kurullu: True
+2025-08-14 09:05:11,764 - INFO - Template seçimi için dosya: Yıllık Çalışma Planı
+2025-08-14 09:05:11,764 - INFO - Çalışma planı template'i seçiliyor
+2025-08-14 09:05:11,764 - INFO - Template seçimi: Evraklar/YILLIKLAR/YILLIK ÇALIŞMA PLANI KURULLU.xlsx, Var mı: True
+2025-08-14 09:05:11,764 - INFO - Seçilen template: Evraklar/YILLIKLAR/YILLIK ÇALIŞMA PLANI KURULLU.xlsx
+2025-08-14 09:05:11,764 - INFO - Plan türü belirlendi: Çalışma Planı (dosya: Yıllık Çalışma Planı)
+2025-08-14 09:05:11,766 - INFO - Template kopyalandı: Evraklar/YILLIKLAR/YILLIK ÇALIŞMA PLANI KURULLU.xlsx -> /Users/huseyinilhan/Desktop/ENERJİSA PERAKENDE ÇAĞRI MERKEZİ HİZMETİ/ENERJİSA PERAKENDE ÇAĞRI MERKEZİ HİZMETİ - Yıllık Çalışma Planı KURULLU.xlsx
+2025-08-14 09:05:11,767 - INFO - Excel işleme başladı: ENERJİSA PERAKENDE ÇAĞRI MERKEZİ HİZMETİ - Yıllık Çalışma Planı KURULLU.xlsx
+2025-08-14 09:05:11,920 - INFO - Excel dosya adı kontrol ediliyor: 'ENERJİSA PERAKENDE ÇAĞRI MERKEZİ HİZMETİ - Yıllık Çalışma Planı KURULLU.xlsx'
+2025-08-14 09:05:11,920 - INFO - [DEBUG] Excel kontrolleri: Yıllık=True, Değerlendirme=False, Raporu=False
+2025-08-14 09:05:11,920 - INFO - [DEBUG] Normalized filename: 'ENERJİSA PERAKENDE ÇAĞRI MERKEZİ HİZMETİ - YILLIK ÇALIŞMA PLANI KURULLU.XLSX'
+2025-08-14 09:05:11,920 - INFO - Normal Excel dosyası - RD güncelleme yok
+2025-08-14 09:05:11,942 - INFO - Excel kaydedildi. 4 değişiklik yapıldı.
+2025-08-14 09:05:11,942 - INFO - Placeholder'lar dolduruldu: /Users/huseyinilhan/Desktop/ENERJİSA PERAKENDE ÇAĞRI MERKEZİ HİZMETİ/ENERJİSA PERAKENDE ÇAĞRI MERKEZİ HİZMETİ - Yıllık Çalışma Planı KURULLU.xlsx
+2025-08-14 09:05:11,942 - INFO - Dinamik algoritma uygulanıyor...
+2025-08-14 09:05:11,942 - INFO - Dinamik algoritma başlıyor - Plan türü: Çalışma Planı, Başlık satırı: 6
+2025-08-14 09:05:11,942 - INFO - Dinamik tarih ayı: 1
+2025-08-14 09:05:12,073 - INFO - Ay başlıkları 6. satırda bulundu!
+2025-08-14 09:05:12,073 - INFO - Güncellenen başlık satırı: 6
+2025-08-14 09:05:12,074 - INFO - Ay bulundu: OCAK, Index: 1, Kolon: 4
+2025-08-14 09:05:12,074 - INFO - Ay bulundu: ŞUBAT, Index: 2, Kolon: 8
+2025-08-14 09:05:12,074 - INFO - Ay bulundu: MART, Index: 3, Kolon: 12
+2025-08-14 09:05:12,074 - INFO - Ay bulundu: MAYIS, Index: 5, Kolon: 20
+2025-08-14 09:05:12,074 - INFO - Ay bulundu: TEMMUZ, Index: 7, Kolon: 28
+2025-08-14 09:05:12,074 - INFO - Ay bulundu: AĞUSTOS, Index: 8, Kolon: 32
+2025-08-14 09:05:12,074 - INFO - Ay bulundu: EYLÜL, Index: 9, Kolon: 36
+2025-08-14 09:05:12,074 - INFO - Ay bulundu: KASIM, Index: 11, Kolon: 44
+2025-08-14 09:05:12,074 - INFO - Ay bulundu: ARALIK, Index: 12, Kolon: 48
+2025-08-14 09:05:12,074 - INFO - Toplam 0 ay temizlendi
+2025-08-14 09:05:12,094 - INFO - Dinamik algoritma tamamlandı.
+2025-08-14 09:05:12,094 - INFO - Yıllık silme kuralları uygulanıyor...
+2025-08-14 09:05:12,094 - INFO - Yıllık silme kuralı hesaplandı: ay=1, plan_tipi=yillik_calisma_plani_kurullu
+2025-08-14 09:05:12,095 - INFO - Silinecek hücre yok: ay=1, plan_tipi=yillik_calisma_plani_kurullu
+2025-08-14 09:05:12,095 - INFO - Yıllık silme kuralları tamamlandı.
+2025-08-14 09:05:12,096 - INFO - Yıllık plan belgesi başarıyla oluşturuldu: ENERJİSA PERAKENDE ÇAĞRI MERKEZİ HİZMETİ - Yıllık Çalışma Planı KURULLU.xlsx
+2025-08-14 09:06:28,589 - INFO - === KAYDETME İŞLEMİ BAŞLADI ===
+2025-08-14 09:06:28,754 - INFO - Toplam 21 alan güncellendi
+2025-08-14 09:06:28,776 - INFO - === OTOMATİK HESAPLAMALAR ===
+2025-08-14 09:06:28,799 - INFO - RD Yöntemi kaydedildi: Matris
+2025-08-14 09:06:28,821 - INFO - Faaliyet tarihi placeholder'ı normal işlemler için temizlendi
+2025-08-14 09:06:29,828 - INFO - veri.xlsx kaydedildi
+2025-08-14 09:06:30,522 - INFO - veri_yapilandirma_GUNCEL.xlsx güncellendi
+2025-08-14 09:06:34,587 - INFO - veri.xlsx başarıyla yüklendi
+2025-08-14 09:06:34,612 - INFO - Toplam 33 anahtar yüklendi
+2025-08-14 09:06:34,746 - INFO - Klasörler oluşturuldu: C:\Users\huseyin.ilhan\Desktop\ANKARA LOJİSTİK YATIRIMLARI VE AK.TEMİZLİ, yedekler\2025-08-14 - ANKARA LOJİSTİK YATIRIMLARI VE AK.TEMİZLİ
+2025-08-14 09:06:35,328 - INFO - YILLIKLAR klasörü kontrol ediliyor: Evraklar\YILLIKLAR
+2025-08-14 09:06:35,351 - INFO - Klasör var mı: True
+2025-08-14 09:06:35,395 - INFO - YILLIKLAR klasöründeki dosyalar: ['YILLIK DEĞERLENDİRME RAPORU.xlsx', 'YILLIK EĞİTİM PLANI KURULLU.xlsx', 'YILLIK EĞİTİM PLANI KURULSUZ.xlsx', 'YILLIK ÇALIŞMA PLANI KURULLU.xlsx', 'YILLIK ÇALIŞMA PLANI KURULSUZ.xlsx']
+2025-08-14 09:06:35,419 - INFO - YILLIKLAR dosya kontrolü: YILLIK DEĞERLENDİRME RAPORU.xlsx
+2025-08-14 09:06:35,439 - INFO - Yıllık Değerlendirme Raporu bulundu!
+2025-08-14 09:06:35,460 - INFO - YILLIKLAR dosya kontrolü: YILLIK EĞİTİM PLANI KURULLU.xlsx
+2025-08-14 09:06:35,481 - INFO - Yıllık Eğitim Planı bulundu!
+2025-08-14 09:06:35,502 - INFO - YILLIKLAR dosya kontrolü: YILLIK EĞİTİM PLANI KURULSUZ.xlsx
+2025-08-14 09:06:35,522 - INFO - Yıllık Eğitim Planı bulundu!
+2025-08-14 09:06:35,545 - INFO - YILLIKLAR dosya kontrolü: YILLIK ÇALIŞMA PLANI KURULLU.xlsx
+2025-08-14 09:06:35,569 - INFO - Yıllık Çalışma Planı bulundu!
+2025-08-14 09:06:35,590 - INFO - YILLIKLAR dosya kontrolü: YILLIK ÇALIŞMA PLANI KURULSUZ.xlsx
+2025-08-14 09:06:35,612 - INFO - Yıllık Çalışma Planı bulundu!
+2025-08-14 09:06:35,634 - INFO - Yıllık planlar bulundu: ['Yıllık Değerlendirme Raporu', 'Yıllık Eğitim Planı', 'Yıllık Eğitim Planı', 'Yıllık Çalışma Planı', 'Yıllık Çalışma Planı']
+2025-08-14 09:06:35,658 - INFO - 16 belge bulundu (Filtresiz)
+2025-08-14 09:06:39,302 - INFO - 
+=== İşlem başlıyor: Yıllık Çalışma Planı ===
+2025-08-14 09:06:39,323 - INFO - === Yıllık plan belgesi işleniyor: Yıllık Çalışma Planı ===
+2025-08-14 09:06:39,346 - INFO - Yıl kontrolü: YIL=2025 vs TARİH yılı=2025 -> True
+2025-08-14 09:06:39,368 - INFO - Dinamik algoritma kullanılacak mı: True
+2025-08-14 09:06:39,390 - INFO - Çalışan sayısı: 8, Kurullu: False
+2025-08-14 09:06:39,412 - INFO - Template seçimi için dosya: Yıllık Çalışma Planı
+2025-08-14 09:06:39,432 - INFO - Çalışma planı template'i seçiliyor
+2025-08-14 09:06:39,454 - INFO - Template seçimi: Evraklar\YILLIKLAR\YILLIK ÇALIŞMA PLANI KURULSUZ.xlsx, Var mı: False
+2025-08-14 09:06:39,475 - ERROR - Yıllık plan template bulunamadı: Yıllık Çalışma Planı
+2025-08-14 09:30:19,102 - INFO - veri_yapilandirma_GUNCEL.xlsx başarıyla yüklendi
+2025-08-14 09:30:19,149 - INFO - Toplam 21 form alanı oluşturuldu
+2025-08-14 09:31:44,774 - INFO - veri_yapilandirma_GUNCEL.xlsx başarıyla yüklendi
+2025-08-14 09:31:44,830 - INFO - Toplam 21 form alanı oluşturuldu
+2025-08-14 09:32:32,895 - INFO - Ankara tablosu yüklendi
+2025-08-14 09:32:33,006 - INFO - NACE açıklaması bulundu: 52.29.90
+2025-08-14 09:32:33,017 - INFO - GRUP DIŞI firma tespit edildi: GRUP DIŞI
+2025-08-14 09:32:35,066 - INFO - SGK 1080233 için veriler yüklendi
+2025-08-14 09:32:52,015 - INFO - === KAYDETME İŞLEMİ BAŞLADI ===
+2025-08-14 09:32:52,031 - INFO - Toplam 21 alan güncellendi
+2025-08-14 09:32:52,041 - INFO - === OTOMATİK HESAPLAMALAR ===
+2025-08-14 09:32:52,056 - INFO - RD Yöntemi kaydedildi: Matris
+2025-08-14 09:32:52,068 - INFO - Faaliyet tarihi placeholder'ı normal işlemler için temizlendi
+2025-08-14 09:32:52,602 - INFO - veri.xlsx kaydedildi
+2025-08-14 09:32:53,132 - INFO - veri_yapilandirma_GUNCEL.xlsx güncellendi
+2025-08-14 09:32:56,325 - INFO - veri.xlsx başarıyla yüklendi
+2025-08-14 09:32:56,340 - INFO - Toplam 33 anahtar yüklendi
+2025-08-14 09:32:56,460 - INFO - Klasörler oluşturuldu: C:\Users\huseyin.ilhan\Desktop\DHL Global Forwarding Taş.Aş., yedekler\2025-08-14 - DHL Global Forwarding Taş.Aş.
+2025-08-14 09:32:57,116 - INFO - YILLIKLAR klasörü kontrol ediliyor: Evraklar\YILLIKLAR
+2025-08-14 09:32:57,127 - INFO - Klasör var mı: True
+2025-08-14 09:32:57,156 - INFO - YILLIKLAR klasöründeki dosyalar: ['YILLIK DEĞERLENDİRME RAPORU.xlsx', 'YILLIK EĞİTİM PLANI KURULLU.xlsx', 'YILLIK EĞİTİM PLANI KURULSUZ.xlsx', 'YILLIK ÇALIŞMA PLANI KURULLU.xlsx', 'YILLIK ÇALIŞMA PLANI KURULSUZ.xlsx']
+2025-08-14 09:32:57,165 - INFO - YILLIKLAR dosya kontrolü: YILLIK DEĞERLENDİRME RAPORU.xlsx
+2025-08-14 09:32:57,176 - INFO - Yıllık Değerlendirme Raporu bulundu!
+2025-08-14 09:32:57,185 - INFO - YILLIKLAR dosya kontrolü: YILLIK EĞİTİM PLANI KURULLU.xlsx
+2025-08-14 09:32:57,196 - INFO - Yıllık Eğitim Planı bulundu!
+2025-08-14 09:32:57,207 - INFO - YILLIKLAR dosya kontrolü: YILLIK EĞİTİM PLANI KURULSUZ.xlsx
+2025-08-14 09:32:57,217 - INFO - Yıllık Eğitim Planı bulundu!
+2025-08-14 09:32:57,229 - INFO - YILLIKLAR dosya kontrolü: YILLIK ÇALIŞMA PLANI KURULLU.xlsx
+2025-08-14 09:32:57,241 - INFO - Yıllık Çalışma Planı bulundu!
+2025-08-14 09:32:57,253 - INFO - YILLIKLAR dosya kontrolü: YILLIK ÇALIŞMA PLANI KURULSUZ.xlsx
+2025-08-14 09:32:57,264 - INFO - Yıllık Çalışma Planı bulundu!
+2025-08-14 09:32:57,275 - INFO - Yıllık planlar bulundu: ['Yıllık Değerlendirme Raporu', 'Yıllık Eğitim Planı', 'Yıllık Eğitim Planı', 'Yıllık Çalışma Planı', 'Yıllık Çalışma Planı']
+2025-08-14 09:32:57,285 - INFO - 16 belge bulundu (Filtresiz)
+2025-08-14 09:33:01,322 - INFO - 
+=== İşlem başlıyor: Yıllık Çalışma Planı ===
+2025-08-14 09:33:01,333 - INFO - === Yıllık plan belgesi işleniyor: Yıllık Çalışma Planı ===
+2025-08-14 09:33:01,344 - INFO - Yıl kontrolü: YIL=2025 vs TARİH yılı=2025 -> True
+2025-08-14 09:33:01,355 - INFO - Dinamik algoritma kullanılacak mı: True
+2025-08-14 09:33:01,366 - INFO - Çalışan sayısı: 26, Kurullu: False
+2025-08-14 09:33:01,377 - INFO - Template seçimi için dosya: Yıllık Çalışma Planı
+2025-08-14 09:33:01,387 - INFO - Çalışma planı template'i seçiliyor
+2025-08-14 09:33:01,399 - INFO - Template seçimi: Evraklar\YILLIKLAR\YILLIK ÇALIŞMA PLANI KURULSUZ.xlsx, Var mı: False
+2025-08-14 09:33:01,410 - ERROR - Yıllık plan template bulunamadı: Yıllık Çalışma Planı

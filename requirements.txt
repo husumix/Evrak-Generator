@@ -1,0 +1,26 @@
+# Python Document Automation Program Requirements
+# Cross-platform compatibility for Windows and macOS/Linux
+
+# Core dependencies
+pandas>=1.5.0
+python-docx>=0.8.11
+openpyxl>=3.0.10
+python-dateutil>=2.8.2
+
+# Windows-specific dependencies
+pywin32>=305; platform_system=="Windows"
+
+# GUI dependencies (usually included with Python)
+# tkinter is included with Python standard library
+
+# Optional: For better Excel handling
+xlrd>=2.0.1
+xlsxwriter>=3.0.0
+
+# Development/debugging
+logging
+
+# Notes:
+# - LibreOffice is required for PDF conversion on macOS/Linux
+# - Install with: brew install libreoffice (macOS) or apt-get install libreoffice (Linux)
+# - For Windows, Microsoft Office is used via COM interface
